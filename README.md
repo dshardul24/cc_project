@@ -73,8 +73,5 @@ CineSearch is a modern, high-performance movie discovery application built with 
 
 ## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-Developed with ❤️ by Antigravity
+This project is open-source.
 "# cc_project" 
